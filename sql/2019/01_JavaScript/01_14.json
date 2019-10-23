@@ -1,0 +1,14 @@
+[
+  {
+    "client": "mobile", 
+    "num_pages": "786052", 
+    "pct_script_preload": "14.84", 
+    "total": "5297442"
+  }, 
+  {
+    "client": "desktop", 
+    "num_pages": "626399", 
+    "pct_script_preload": "14.33", 
+    "total": "4371974"
+  }
+]

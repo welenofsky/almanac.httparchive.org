@@ -1,0 +1,852 @@
+[
+  {
+    "app": "jQuery", 
+    "client": "mobile", 
+    "freq_2018": "372291", 
+    "freq_2019": "4421124", 
+    "pct_2018": "82.53", 
+    "pct_2019": "83.46", 
+    "pct_change": "1.13", 
+    "pct_pt_change": "0.93"
+  }, 
+  {
+    "app": "jQuery", 
+    "client": "desktop", 
+    "freq_2018": "1041321", 
+    "freq_2019": "3717683", 
+    "pct_2018": "81.49", 
+    "pct_2019": "85.03", 
+    "pct_change": "4.35", 
+    "pct_pt_change": "3.54"
+  }, 
+  {
+    "app": "jQuery Migrate", 
+    "client": "mobile", 
+    "freq_2018": "92034", 
+    "freq_2019": "1678435", 
+    "pct_2018": "20.4", 
+    "pct_2019": "31.68", 
+    "pct_change": "55.3", 
+    "pct_pt_change": "11.28"
+  }, 
+  {
+    "app": "jQuery Migrate", 
+    "client": "desktop", 
+    "freq_2018": "194872", 
+    "freq_2019": "1366725", 
+    "pct_2018": "15.25", 
+    "pct_2019": "31.26", 
+    "pct_change": "104.98", 
+    "pct_pt_change": "16.01"
+  }, 
+  {
+    "app": "jQuery UI", 
+    "client": "mobile", 
+    "freq_2018": "95503", 
+    "freq_2019": "1152058", 
+    "pct_2018": "21.17", 
+    "pct_2019": "21.75", 
+    "pct_change": "2.72", 
+    "pct_pt_change": "0.58"
+  }, 
+  {
+    "app": "jQuery UI", 
+    "client": "desktop", 
+    "freq_2018": "290662", 
+    "freq_2019": "1031864", 
+    "pct_2018": "22.75", 
+    "pct_2019": "23.6", 
+    "pct_change": "3.76", 
+    "pct_pt_change": "0.85"
+  }, 
+  {
+    "app": "Modernizr", 
+    "client": "mobile", 
+    "freq_2018": "72276", 
+    "freq_2019": "887640", 
+    "pct_2018": "16.02", 
+    "pct_2019": "16.76", 
+    "pct_change": "4.58", 
+    "pct_pt_change": "0.73"
+  }, 
+  {
+    "app": "Modernizr", 
+    "client": "desktop", 
+    "freq_2018": "177200", 
+    "freq_2019": "778195", 
+    "pct_2018": "13.87", 
+    "pct_2019": "17.8", 
+    "pct_change": "28.35", 
+    "pct_pt_change": "3.93"
+  }, 
+  {
+    "app": "FancyBox", 
+    "client": "mobile", 
+    "freq_2018": "23586", 
+    "freq_2019": "350080", 
+    "pct_2018": "5.23", 
+    "pct_2019": "6.61", 
+    "pct_change": "26.39", 
+    "pct_pt_change": "1.38"
+  }, 
+  {
+    "app": "Lightbox", 
+    "client": "mobile", 
+    "freq_2018": "20076", 
+    "freq_2019": "314121", 
+    "pct_2018": "4.45", 
+    "pct_2019": "5.93", 
+    "pct_change": "33.24", 
+    "pct_pt_change": "1.48"
+  }, 
+  {
+    "app": "FancyBox", 
+    "client": "desktop", 
+    "freq_2018": "66380", 
+    "freq_2019": "307802", 
+    "pct_2018": "5.19", 
+    "pct_2019": "7.04", 
+    "pct_change": "35.53", 
+    "pct_pt_change": "1.85"
+  }, 
+  {
+    "app": "Slick", 
+    "client": "mobile", 
+    "freq_2018": "17653", 
+    "freq_2019": "277432", 
+    "pct_2018": "3.91", 
+    "pct_2019": "5.24", 
+    "pct_change": "33.83", 
+    "pct_pt_change": "1.32"
+  }, 
+  {
+    "app": "Lightbox", 
+    "client": "desktop", 
+    "freq_2018": "58598", 
+    "freq_2019": "263087", 
+    "pct_2018": "4.59", 
+    "pct_2019": "6.02", 
+    "pct_change": "31.22", 
+    "pct_pt_change": "1.43"
+  }, 
+  {
+    "app": "Slick", 
+    "client": "desktop", 
+    "freq_2018": "39039", 
+    "freq_2019": "241935", 
+    "pct_2018": "3.06", 
+    "pct_2019": "5.53", 
+    "pct_change": "81.13", 
+    "pct_pt_change": "2.48"
+  }, 
+  {
+    "app": "Moment.js", 
+    "client": "mobile", 
+    "freq_2018": "17411", 
+    "freq_2019": "227354", 
+    "pct_2018": "3.86", 
+    "pct_2019": "4.29", 
+    "pct_change": "11.2", 
+    "pct_pt_change": "0.43"
+  }, 
+  {
+    "app": "Moment.js", 
+    "client": "desktop", 
+    "freq_2018": "62392", 
+    "freq_2019": "215209", 
+    "pct_2018": "4.88", 
+    "pct_2019": "4.92", 
+    "pct_change": "0.81", 
+    "pct_pt_change": "0.04"
+  }, 
+  {
+    "app": "Underscore.js", 
+    "client": "mobile", 
+    "freq_2018": "14372", 
+    "freq_2019": "202497", 
+    "pct_2018": "3.19", 
+    "pct_2019": "3.82", 
+    "pct_change": "19.98", 
+    "pct_pt_change": "0.64"
+  }, 
+  {
+    "app": "Underscore.js", 
+    "client": "desktop", 
+    "freq_2018": "52262", 
+    "freq_2019": "183607", 
+    "pct_2018": "4.09", 
+    "pct_2019": "4.2", 
+    "pct_change": "2.68", 
+    "pct_pt_change": "0.11"
+  }, 
+  {
+    "app": "prettyPhoto", 
+    "client": "mobile", 
+    "freq_2018": "8392", 
+    "freq_2019": "163918", 
+    "pct_2018": "1.86", 
+    "pct_2019": "3.09", 
+    "pct_change": "66.33", 
+    "pct_pt_change": "1.23"
+  }, 
+  {
+    "app": "Hammer.js", 
+    "client": "mobile", 
+    "freq_2018": "11750", 
+    "freq_2019": "142843", 
+    "pct_2018": "2.6", 
+    "pct_2019": "2.7", 
+    "pct_change": "3.52", 
+    "pct_pt_change": "0.09"
+  }, 
+  {
+    "app": "Lodash", 
+    "client": "mobile", 
+    "freq_2018": "7655", 
+    "freq_2019": "141909", 
+    "pct_2018": "1.7", 
+    "pct_2019": "2.68", 
+    "pct_change": "57.86", 
+    "pct_pt_change": "0.98"
+  }, 
+  {
+    "app": "Select2", 
+    "client": "mobile", 
+    "freq_2018": "10053", 
+    "freq_2019": "131522", 
+    "pct_2018": "2.23", 
+    "pct_2019": "2.48", 
+    "pct_change": "11.41", 
+    "pct_pt_change": "0.25"
+  }, 
+  {
+    "app": "prettyPhoto", 
+    "client": "desktop", 
+    "freq_2018": "18276", 
+    "freq_2019": "126257", 
+    "pct_2018": "1.43", 
+    "pct_2019": "2.89", 
+    "pct_change": "101.91", 
+    "pct_pt_change": "1.46"
+  }, 
+  {
+    "app": "Select2", 
+    "client": "desktop", 
+    "freq_2018": "28961", 
+    "freq_2019": "121658", 
+    "pct_2018": "2.27", 
+    "pct_2019": "2.78", 
+    "pct_change": "22.78", 
+    "pct_pt_change": "0.52"
+  }, 
+  {
+    "app": "Lodash", 
+    "client": "desktop", 
+    "freq_2018": "21528", 
+    "freq_2019": "116001", 
+    "pct_2018": "1.68", 
+    "pct_2019": "2.65", 
+    "pct_change": "57.49", 
+    "pct_pt_change": "0.97"
+  }, 
+  {
+    "app": "Hammer.js", 
+    "client": "desktop", 
+    "freq_2018": "26457", 
+    "freq_2019": "99646", 
+    "pct_2018": "2.07", 
+    "pct_2019": "2.28", 
+    "pct_change": "10.08", 
+    "pct_pt_change": "0.21"
+  }, 
+  {
+    "app": "Lazy.js", 
+    "client": "mobile", 
+    "freq_2018": "2989", 
+    "freq_2019": "82738", 
+    "pct_2018": "0.66", 
+    "pct_2019": "1.56", 
+    "pct_change": "135.72", 
+    "pct_pt_change": "0.9"
+  }, 
+  {
+    "app": "YUI", 
+    "client": "desktop", 
+    "freq_2018": "22497", 
+    "freq_2019": "80420", 
+    "pct_2018": "1.76", 
+    "pct_2019": "1.84", 
+    "pct_change": "4.48", 
+    "pct_pt_change": "0.08"
+  }, 
+  {
+    "app": "YUI", 
+    "client": "mobile", 
+    "freq_2018": "5494", 
+    "freq_2019": "79357", 
+    "pct_2018": "1.22", 
+    "pct_2019": "1.5", 
+    "pct_change": "23.0", 
+    "pct_pt_change": "0.28"
+  }, 
+  {
+    "app": "Fingerprintjs", 
+    "client": "mobile", 
+    "freq_2018": "4668", 
+    "freq_2019": "69839", 
+    "pct_2018": "1.03", 
+    "pct_2019": "1.32", 
+    "pct_change": "27.4", 
+    "pct_pt_change": "0.28"
+  }, 
+  {
+    "app": "Zepto", 
+    "client": "mobile", 
+    "freq_2018": "3356", 
+    "freq_2019": "62205", 
+    "pct_2018": "0.74", 
+    "pct_2019": "1.17", 
+    "pct_change": "57.84", 
+    "pct_pt_change": "0.43"
+  }, 
+  {
+    "app": "Lazy.js", 
+    "client": "desktop", 
+    "freq_2018": "38077", 
+    "freq_2019": "54873", 
+    "pct_2018": "2.98", 
+    "pct_2019": "1.26", 
+    "pct_change": "-57.88", 
+    "pct_pt_change": "-1.72"
+  }, 
+  {
+    "app": "Fingerprintjs", 
+    "client": "desktop", 
+    "freq_2018": "41001", 
+    "freq_2019": "52704", 
+    "pct_2018": "3.21", 
+    "pct_2019": "1.21", 
+    "pct_change": "-62.43", 
+    "pct_pt_change": "-2.0"
+  }, 
+  {
+    "app": "Flickity", 
+    "client": "mobile", 
+    "freq_2018": "3422", 
+    "freq_2019": "48635", 
+    "pct_2018": "0.76", 
+    "pct_2019": "0.92", 
+    "pct_change": "21.03", 
+    "pct_pt_change": "0.16"
+  }, 
+  {
+    "app": "script.aculo.us", 
+    "client": "mobile", 
+    "freq_2018": "4202", 
+    "freq_2019": "45103", 
+    "pct_2018": "0.93", 
+    "pct_2019": "0.85", 
+    "pct_change": "-8.6", 
+    "pct_pt_change": "-0.08"
+  }, 
+  {
+    "app": "script.aculo.us", 
+    "client": "desktop", 
+    "freq_2018": "13592", 
+    "freq_2019": "42657", 
+    "pct_2018": "1.06", 
+    "pct_2019": "0.98", 
+    "pct_change": "-8.27", 
+    "pct_pt_change": "-0.09"
+  }, 
+  {
+    "app": "Flickity", 
+    "client": "desktop", 
+    "freq_2018": "5238", 
+    "freq_2019": "36266", 
+    "pct_2018": "0.41", 
+    "pct_2019": "0.83", 
+    "pct_change": "102.36", 
+    "pct_pt_change": "0.42"
+  }, 
+  {
+    "app": "Zepto", 
+    "client": "desktop", 
+    "freq_2018": "3424", 
+    "freq_2019": "34161", 
+    "pct_2018": "0.27", 
+    "pct_2019": "0.78", 
+    "pct_change": "191.6", 
+    "pct_pt_change": "0.51"
+  }, 
+  {
+    "app": "Dojo", 
+    "client": "mobile", 
+    "freq_2018": "1587", 
+    "freq_2019": "32678", 
+    "pct_2018": "0.35", 
+    "pct_2019": "0.62", 
+    "pct_change": "75.35", 
+    "pct_pt_change": "0.27"
+  }, 
+  {
+    "app": "SweetAlert", 
+    "client": "mobile", 
+    "freq_2018": "3000", 
+    "freq_2019": "32155", 
+    "pct_2018": "0.67", 
+    "pct_2019": "0.61", 
+    "pct_change": "-8.73", 
+    "pct_pt_change": "-0.06"
+  }, 
+  {
+    "app": "DataTables", 
+    "client": "mobile", 
+    "freq_2018": "2222", 
+    "freq_2019": "32046", 
+    "pct_2018": "0.49", 
+    "pct_2019": "0.6", 
+    "pct_change": "22.81", 
+    "pct_pt_change": "0.11"
+  }, 
+  {
+    "app": "DataTables", 
+    "client": "desktop", 
+    "freq_2018": "6743", 
+    "freq_2019": "30665", 
+    "pct_2018": "0.53", 
+    "pct_2019": "0.7", 
+    "pct_change": "32.92", 
+    "pct_pt_change": "0.17"
+  }, 
+  {
+    "app": "Dojo", 
+    "client": "desktop", 
+    "freq_2018": "4990", 
+    "freq_2019": "30661", 
+    "pct_2018": "0.39", 
+    "pct_2019": "0.7", 
+    "pct_change": "79.59", 
+    "pct_pt_change": "0.31"
+  }, 
+  {
+    "app": "SweetAlert", 
+    "client": "desktop", 
+    "freq_2018": "7714", 
+    "freq_2019": "27810", 
+    "pct_2018": "0.6", 
+    "pct_2019": "0.64", 
+    "pct_change": "5.37", 
+    "pct_pt_change": "0.03"
+  }, 
+  {
+    "app": "SweetAlert2", 
+    "client": "mobile", 
+    "freq_2018": "646", 
+    "freq_2019": "21137", 
+    "pct_2018": "0.14", 
+    "pct_2019": "0.4", 
+    "pct_change": "178.63", 
+    "pct_pt_change": "0.26"
+  }, 
+  {
+    "app": "SweetAlert2", 
+    "client": "desktop", 
+    "freq_2018": "1375", 
+    "freq_2019": "19849", 
+    "pct_2018": "0.11", 
+    "pct_2019": "0.45", 
+    "pct_change": "321.91", 
+    "pct_pt_change": "0.35"
+  }, 
+  {
+    "app": "XRegExp", 
+    "client": "desktop", 
+    "freq_2018": "5425", 
+    "freq_2019": "14198", 
+    "pct_2018": "0.42", 
+    "pct_2019": "0.32", 
+    "pct_change": "-23.51", 
+    "pct_pt_change": "-0.1"
+  }, 
+  {
+    "app": "SoundManager", 
+    "client": "mobile", 
+    "freq_2018": "1206", 
+    "freq_2019": "13810", 
+    "pct_2018": "0.27", 
+    "pct_2019": "0.26", 
+    "pct_change": "-2.49", 
+    "pct_pt_change": "-0.01"
+  }, 
+  {
+    "app": "SoundManager", 
+    "client": "desktop", 
+    "freq_2018": "3878", 
+    "freq_2019": "12734", 
+    "pct_2018": "0.3", 
+    "pct_2019": "0.29", 
+    "pct_change": "-4.03", 
+    "pct_pt_change": "-0.01"
+  }, 
+  {
+    "app": "basket.js", 
+    "client": "mobile", 
+    "freq_2018": "858", 
+    "freq_2019": "11872", 
+    "pct_2018": "0.19", 
+    "pct_2019": "0.22", 
+    "pct_change": "17.83", 
+    "pct_pt_change": "0.03"
+  }, 
+  {
+    "app": "XRegExp", 
+    "client": "mobile", 
+    "freq_2018": "1570", 
+    "freq_2019": "11735", 
+    "pct_2018": "0.35", 
+    "pct_2019": "0.22", 
+    "pct_change": "-36.35", 
+    "pct_pt_change": "-0.13"
+  }, 
+  {
+    "app": "Twitter typeahead.js", 
+    "client": "mobile", 
+    "freq_2018": "1045", 
+    "freq_2019": "10977", 
+    "pct_2018": "0.23", 
+    "pct_2019": "0.21", 
+    "pct_change": "-10.55", 
+    "pct_pt_change": "-0.02"
+  }, 
+  {
+    "app": "HeadJS", 
+    "client": "mobile", 
+    "freq_2018": "1223", 
+    "freq_2019": "10849", 
+    "pct_2018": "0.27", 
+    "pct_2019": "0.2", 
+    "pct_change": "-24.46", 
+    "pct_pt_change": "-0.07"
+  }, 
+  {
+    "app": "Snap.svg", 
+    "client": "mobile", 
+    "freq_2018": "921", 
+    "freq_2019": "10460", 
+    "pct_2018": "0.2", 
+    "pct_2019": "0.2", 
+    "pct_change": "-3.29", 
+    "pct_pt_change": "-0.01"
+  }, 
+  {
+    "app": "HeadJS", 
+    "client": "desktop", 
+    "freq_2018": "3035", 
+    "freq_2019": "10121", 
+    "pct_2018": "0.24", 
+    "pct_2019": "0.23", 
+    "pct_change": "-2.53", 
+    "pct_pt_change": "-0.01"
+  }, 
+  {
+    "app": "basket.js", 
+    "client": "desktop", 
+    "freq_2018": "2481", 
+    "freq_2019": "10012", 
+    "pct_2018": "0.19", 
+    "pct_2019": "0.23", 
+    "pct_change": "17.95", 
+    "pct_pt_change": "0.03"
+  }, 
+  {
+    "app": "Twitter typeahead.js", 
+    "client": "desktop", 
+    "freq_2018": "2681", 
+    "freq_2019": "9862", 
+    "pct_2018": "0.21", 
+    "pct_2019": "0.23", 
+    "pct_change": "7.51", 
+    "pct_pt_change": "0.02"
+  }, 
+  {
+    "app": "Snap.svg", 
+    "client": "desktop", 
+    "freq_2018": "1820", 
+    "freq_2019": "9538", 
+    "pct_2018": "0.14", 
+    "pct_2019": "0.22", 
+    "pct_change": "53.17", 
+    "pct_pt_change": "0.08"
+  }, 
+  {
+    "app": "List.js", 
+    "client": "desktop", 
+    "freq_2018": "2151", 
+    "freq_2019": "6504", 
+    "pct_2018": "0.17", 
+    "pct_2019": "0.15", 
+    "pct_change": "-11.63", 
+    "pct_pt_change": "-0.02"
+  }, 
+  {
+    "app": "List.js", 
+    "client": "mobile", 
+    "freq_2018": "702", 
+    "freq_2019": "6283", 
+    "pct_2018": "0.16", 
+    "pct_2019": "0.12", 
+    "pct_change": "-23.78", 
+    "pct_pt_change": "-0.04"
+  }, 
+  {
+    "app": "Slimbox 2", 
+    "client": "mobile", 
+    "freq_2018": "288", 
+    "freq_2019": "5160", 
+    "pct_2018": "0.06", 
+    "pct_2019": "0.1", 
+    "pct_change": "52.57", 
+    "pct_pt_change": "0.03"
+  }, 
+  {
+    "app": "Slimbox 2", 
+    "client": "desktop", 
+    "freq_2018": "711", 
+    "freq_2019": "3924", 
+    "pct_2018": "0.06", 
+    "pct_2019": "0.09", 
+    "pct_change": "61.3", 
+    "pct_pt_change": "0.03"
+  }, 
+  {
+    "app": "Immutable.js", 
+    "client": "mobile", 
+    "freq_2018": "94", 
+    "freq_2019": "3544", 
+    "pct_2018": "0.02", 
+    "pct_2019": "0.07", 
+    "pct_change": "221.06", 
+    "pct_pt_change": "0.05"
+  }, 
+  {
+    "app": "Slimbox", 
+    "client": "mobile", 
+    "freq_2018": "149", 
+    "freq_2019": "2832", 
+    "pct_2018": "0.03", 
+    "pct_2019": "0.05", 
+    "pct_change": "61.85", 
+    "pct_pt_change": "0.02"
+  }, 
+  {
+    "app": "Immutable.js", 
+    "client": "desktop", 
+    "freq_2018": "263", 
+    "freq_2019": "2151", 
+    "pct_2018": "0.02", 
+    "pct_2019": "0.05", 
+    "pct_change": "139.04", 
+    "pct_pt_change": "0.03"
+  }, 
+  {
+    "app": "Moment Timezone", 
+    "client": "mobile", 
+    "freq_2018": "199", 
+    "freq_2019": "2103", 
+    "pct_2018": "0.04", 
+    "pct_2019": "0.04", 
+    "pct_change": "-10.01", 
+    "pct_pt_change": "-0.0"
+  }, 
+  {
+    "app": "Marked", 
+    "client": "desktop", 
+    "freq_2018": "774", 
+    "freq_2019": "1900", 
+    "pct_2018": "0.06", 
+    "pct_2019": "0.04", 
+    "pct_change": "-28.25", 
+    "pct_pt_change": "-0.02"
+  }, 
+  {
+    "app": "Slimbox", 
+    "client": "desktop", 
+    "freq_2018": "340", 
+    "freq_2019": "1851", 
+    "pct_2018": "0.03", 
+    "pct_2019": "0.04", 
+    "pct_change": "59.12", 
+    "pct_pt_change": "0.02"
+  }, 
+  {
+    "app": "Xajax", 
+    "client": "mobile", 
+    "freq_2018": "172", 
+    "freq_2019": "1640", 
+    "pct_2018": "0.04", 
+    "pct_2019": "0.03", 
+    "pct_change": "-18.8", 
+    "pct_pt_change": "-0.01"
+  }, 
+  {
+    "app": "Moment Timezone", 
+    "client": "desktop", 
+    "freq_2018": "506", 
+    "freq_2019": "1607", 
+    "pct_2018": "0.04", 
+    "pct_2019": "0.04", 
+    "pct_change": "-7.18", 
+    "pct_pt_change": "-0.0"
+  }, 
+  {
+    "app": "Xajax", 
+    "client": "desktop", 
+    "freq_2018": "497", 
+    "freq_2019": "1410", 
+    "pct_2018": "0.04", 
+    "pct_2019": "0.03", 
+    "pct_change": "-17.08", 
+    "pct_pt_change": "-0.01"
+  }, 
+  {
+    "app": "Marked", 
+    "client": "mobile", 
+    "freq_2018": "217", 
+    "freq_2019": "1198", 
+    "pct_2018": "0.05", 
+    "pct_2019": "0.02", 
+    "pct_change": "-52.99", 
+    "pct_pt_change": "-0.03"
+  }, 
+  {
+    "app": "math.js", 
+    "client": "mobile", 
+    "freq_2018": "64", 
+    "freq_2019": "1033", 
+    "pct_2018": "0.01", 
+    "pct_2019": "0.02", 
+    "pct_change": "37.45", 
+    "pct_pt_change": "0.01"
+  }, 
+  {
+    "app": "Bootstrap Table", 
+    "client": "desktop", 
+    "freq_2018": "265", 
+    "freq_2019": "973", 
+    "pct_2018": "0.02", 
+    "pct_2019": "0.02", 
+    "pct_change": "7.31", 
+    "pct_pt_change": "0.0"
+  }, 
+  {
+    "app": "math.js", 
+    "client": "desktop", 
+    "freq_2018": "206", 
+    "freq_2019": "933", 
+    "pct_2018": "0.02", 
+    "pct_2019": "0.02", 
+    "pct_change": "32.37", 
+    "pct_pt_change": "0.01"
+  }, 
+  {
+    "app": "Bootstrap Table", 
+    "client": "mobile", 
+    "freq_2018": "82", 
+    "freq_2019": "881", 
+    "pct_2018": "0.02", 
+    "pct_2019": "0.02", 
+    "pct_change": "-8.51", 
+    "pct_pt_change": "-0.0"
+  }, 
+  {
+    "app": "Ramda", 
+    "client": "mobile", 
+    "freq_2018": "6", 
+    "freq_2019": "407", 
+    "pct_2018": "0.0", 
+    "pct_2019": "0.01", 
+    "pct_change": "477.64", 
+    "pct_pt_change": "0.01"
+  }, 
+  {
+    "app": "Ramda", 
+    "client": "desktop", 
+    "freq_2018": "53", 
+    "freq_2019": "364", 
+    "pct_2018": "0.0", 
+    "pct_2019": "0.01", 
+    "pct_change": "100.73", 
+    "pct_pt_change": "0.0"
+  }, 
+  {
+    "app": "DHTMLX", 
+    "client": "desktop", 
+    "freq_2018": "159", 
+    "freq_2019": "327", 
+    "pct_2018": "0.01", 
+    "pct_2019": "0.01", 
+    "pct_change": "-39.89", 
+    "pct_pt_change": "-0.0"
+  }, 
+  {
+    "app": "DHTMLX", 
+    "client": "mobile", 
+    "freq_2018": "22", 
+    "freq_2019": "317", 
+    "pct_2018": "0.0", 
+    "pct_2019": "0.01", 
+    "pct_change": "22.7", 
+    "pct_pt_change": "0.0"
+  }, 
+  {
+    "app": "MochiKit", 
+    "client": "desktop", 
+    "freq_2018": "59", 
+    "freq_2019": "127", 
+    "pct_2018": "0.0", 
+    "pct_2019": "0.0", 
+    "pct_change": "-37.09", 
+    "pct_pt_change": "-0.0"
+  }, 
+  {
+    "app": "", 
+    "client": "desktop", 
+    "freq_2018": "30", 
+    "freq_2019": "101", 
+    "pct_2018": "0.0", 
+    "pct_2019": "0.0", 
+    "pct_change": "-1.6", 
+    "pct_pt_change": "-0.0"
+  }, 
+  {
+    "app": "", 
+    "client": "mobile", 
+    "freq_2018": "4", 
+    "freq_2019": "95", 
+    "pct_2018": "0.0", 
+    "pct_2019": "0.0", 
+    "pct_change": "102.25", 
+    "pct_pt_change": "0.0"
+  }, 
+  {
+    "app": "MochiKit", 
+    "client": "mobile", 
+    "freq_2018": "12", 
+    "freq_2019": "95", 
+    "pct_2018": "0.0", 
+    "pct_2019": "0.0", 
+    "pct_change": "-32.58", 
+    "pct_pt_change": "-0.0"
+  }, 
+  {
+    "app": "Underscore.j", 
+    "client": "desktop", 
+    "freq_2018": "41", 
+    "freq_2019": "53", 
+    "pct_2018": "0.0", 
+    "pct_2019": "0.0", 
+    "pct_change": "-62.22", 
+    "pct_pt_change": "-0.0"
+  }
+]

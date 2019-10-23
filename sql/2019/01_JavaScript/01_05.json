@@ -1,0 +1,10 @@
+[
+  {
+    "client": "mobile", 
+    "pct_gzip": "68.47"
+  }, 
+  {
+    "client": "desktop", 
+    "pct_gzip": "67.9"
+  }
+]

@@ -1,0 +1,765 @@
+[
+  {
+    "app": "React", 
+    "client": "mobile", 
+    "freq": "362399", 
+    "pct": "6.84", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "React", 
+    "client": "desktop", 
+    "freq": "200404", 
+    "pct": "4.58", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "TweenMax", 
+    "client": "mobile", 
+    "freq": "157382", 
+    "pct": "2.97", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "RequireJS", 
+    "client": "mobile", 
+    "freq": "135837", 
+    "pct": "2.56", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "TweenMax", 
+    "client": "desktop", 
+    "freq": "124378", 
+    "pct": "2.84", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "MooTools", 
+    "client": "mobile", 
+    "freq": "106329", 
+    "pct": "2.01", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "RequireJS", 
+    "client": "desktop", 
+    "freq": "103536", 
+    "pct": "2.37", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Handlebars", 
+    "client": "mobile", 
+    "freq": "102554", 
+    "pct": "1.94", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "AngularJS", 
+    "client": "desktop", 
+    "freq": "88954", 
+    "pct": "2.03", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Prototype", 
+    "client": "mobile", 
+    "freq": "84988", 
+    "pct": "1.6", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Prototype", 
+    "client": "desktop", 
+    "freq": "82768", 
+    "pct": "1.89", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Backbone.js", 
+    "client": "mobile", 
+    "freq": "82408", 
+    "pct": "1.56", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Handlebars", 
+    "client": "desktop", 
+    "freq": "81474", 
+    "pct": "1.86", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "MooTools", 
+    "client": "desktop", 
+    "freq": "79406", 
+    "pct": "1.82", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "AngularJS", 
+    "client": "mobile", 
+    "freq": "79296", 
+    "pct": "1.5", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Backbone.js", 
+    "client": "desktop", 
+    "freq": "78885", 
+    "pct": "1.8", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Mustache", 
+    "client": "mobile", 
+    "freq": "68375", 
+    "pct": "1.29", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Mustache", 
+    "client": "desktop", 
+    "freq": "61379", 
+    "pct": "1.4", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Vue.js", 
+    "client": "mobile", 
+    "freq": "37352", 
+    "pct": "0.71", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Vue.js", 
+    "client": "desktop", 
+    "freq": "34276", 
+    "pct": "0.78", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Knockout.js", 
+    "client": "desktop", 
+    "freq": "19141", 
+    "pct": "0.44", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Knockout.js", 
+    "client": "mobile", 
+    "freq": "18373", 
+    "pct": "0.35", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Socket.io", 
+    "client": "mobile", 
+    "freq": "15523", 
+    "pct": "0.29", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Zone.js", 
+    "client": "desktop", 
+    "freq": "14760", 
+    "pct": "0.34", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Zone.js", 
+    "client": "mobile", 
+    "freq": "14738", 
+    "pct": "0.28", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Socket.io", 
+    "client": "desktop", 
+    "freq": "14645", 
+    "pct": "0.33", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Angular", 
+    "client": "mobile", 
+    "freq": "13746", 
+    "pct": "0.26", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Angular", 
+    "client": "desktop", 
+    "freq": "13594", 
+    "pct": "0.31", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Ember.js", 
+    "client": "mobile", 
+    "freq": "11708", 
+    "pct": "0.22", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Accelerated Mobile Pages", 
+    "client": "mobile", 
+    "freq": "9090", 
+    "pct": "0.17", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Marionette.js", 
+    "client": "mobile", 
+    "freq": "8260", 
+    "pct": "0.16", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "RxJS", 
+    "client": "desktop", 
+    "freq": "7967", 
+    "pct": "0.18", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "RxJS", 
+    "client": "mobile", 
+    "freq": "7737", 
+    "pct": "0.15", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Marionette.js", 
+    "client": "desktop", 
+    "freq": "7500", 
+    "pct": "0.17", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Hogan.js", 
+    "client": "mobile", 
+    "freq": "6605", 
+    "pct": "0.12", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Hogan.js", 
+    "client": "desktop", 
+    "freq": "6501", 
+    "pct": "0.15", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "AlloyUI", 
+    "client": "desktop", 
+    "freq": "6014", 
+    "pct": "0.14", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "AlloyUI", 
+    "client": "mobile", 
+    "freq": "5686", 
+    "pct": "0.11", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Element UI", 
+    "client": "mobile", 
+    "freq": "5467", 
+    "pct": "0.1", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Element UI", 
+    "client": "desktop", 
+    "freq": "5008", 
+    "pct": "0.11", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Wink", 
+    "client": "mobile", 
+    "freq": "4266", 
+    "pct": "0.08", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "ExtJS", 
+    "client": "mobile", 
+    "freq": "4005", 
+    "pct": "0.08", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "ExtJS", 
+    "client": "desktop", 
+    "freq": "3925", 
+    "pct": "0.09", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Nuxt.js", 
+    "client": "desktop", 
+    "freq": "3738", 
+    "pct": "0.09", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Nuxt.js", 
+    "client": "mobile", 
+    "freq": "3685", 
+    "pct": "0.07", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Accelerated Mobile Pages", 
+    "client": "desktop", 
+    "freq": "3408", 
+    "pct": "0.08", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Ember.js", 
+    "client": "desktop", 
+    "freq": "3303", 
+    "pct": "0.08", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Wink", 
+    "client": "desktop", 
+    "freq": "3170", 
+    "pct": "0.07", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Gatsby", 
+    "client": "desktop", 
+    "freq": "2776", 
+    "pct": "0.06", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "RightJS", 
+    "client": "desktop", 
+    "freq": "2760", 
+    "pct": "0.06", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "RightJS", 
+    "client": "mobile", 
+    "freq": "2708", 
+    "pct": "0.05", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Gatsby", 
+    "client": "mobile", 
+    "freq": "2259", 
+    "pct": "0.04", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Ant Design", 
+    "client": "desktop", 
+    "freq": "1429", 
+    "pct": "0.03", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Polymer", 
+    "client": "mobile", 
+    "freq": "1414", 
+    "pct": "0.03", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Riot", 
+    "client": "mobile", 
+    "freq": "1304", 
+    "pct": "0.02", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Riot", 
+    "client": "desktop", 
+    "freq": "1284", 
+    "pct": "0.03", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Meteor", 
+    "client": "mobile", 
+    "freq": "1143", 
+    "pct": "0.02", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Polymer", 
+    "client": "desktop", 
+    "freq": "1119", 
+    "pct": "0.03", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Meteor", 
+    "client": "desktop", 
+    "freq": "1117", 
+    "pct": "0.03", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Ant Design", 
+    "client": "mobile", 
+    "freq": "971", 
+    "pct": "0.02", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Aurelia", 
+    "client": "desktop", 
+    "freq": "498", 
+    "pct": "0.01", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Reveal.js", 
+    "client": "mobile", 
+    "freq": "433", 
+    "pct": "0.01", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Reveal.js", 
+    "client": "desktop", 
+    "freq": "421", 
+    "pct": "0.01", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Aurelia", 
+    "client": "mobile", 
+    "freq": "412", 
+    "pct": "0.01", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "BEM", 
+    "client": "mobile", 
+    "freq": "394", 
+    "pct": "0.01", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Svelte", 
+    "client": "mobile", 
+    "freq": "337", 
+    "pct": "0.01", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "BEM", 
+    "client": "desktop", 
+    "freq": "327", 
+    "pct": "0.01", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Svelte", 
+    "client": "desktop", 
+    "freq": "240", 
+    "pct": "0.01", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Phaser", 
+    "client": "desktop", 
+    "freq": "182", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Transifex", 
+    "client": "desktop", 
+    "freq": "171", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Twitter Flight", 
+    "client": "desktop", 
+    "freq": "160", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Transifex", 
+    "client": "mobile", 
+    "freq": "156", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Twitter Flight", 
+    "client": "mobile", 
+    "freq": "138", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "styled-components", 
+    "client": "desktop", 
+    "freq": "129", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Phaser", 
+    "client": "mobile", 
+    "freq": "128", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "OpenUI5", 
+    "client": "desktop", 
+    "freq": "120", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "styled-components", 
+    "client": "mobile", 
+    "freq": "113", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Sencha Touch", 
+    "client": "mobile", 
+    "freq": "106", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "OpenUI5", 
+    "client": "mobile", 
+    "freq": "78", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Catberry.js", 
+    "client": "mobile", 
+    "freq": "64", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Vue.j 2.5.16", 
+    "client": "mobile", 
+    "freq": "53", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Vue.j 2.5.17", 
+    "client": "desktop", 
+    "freq": "53", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Backbone.j 1.1.0", 
+    "client": "desktop", 
+    "freq": "53", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Marionette.j", 
+    "client": "desktop", 
+    "freq": "53", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Webix", 
+    "client": "desktop", 
+    "freq": "47", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Catberry.js", 
+    "client": "desktop", 
+    "freq": "46", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "ef.js", 
+    "client": "desktop", 
+    "freq": "35", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Webix", 
+    "client": "mobile", 
+    "freq": "31", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "ef.js", 
+    "client": "mobile", 
+    "freq": "30", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Moon", 
+    "client": "mobile", 
+    "freq": "28", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Moon", 
+    "client": "desktop", 
+    "freq": "24", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Essential JS 2", 
+    "client": "mobile", 
+    "freq": "23", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Essential JS 2", 
+    "client": "desktop", 
+    "freq": "23", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "InfernoJS", 
+    "client": "desktop", 
+    "freq": "20", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "InfernoJS", 
+    "client": "mobile", 
+    "freq": "18", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Enyo", 
+    "client": "desktop", 
+    "freq": "17", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Enyo", 
+    "client": "mobile", 
+    "freq": "12", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Sencha Touch", 
+    "client": "desktop", 
+    "freq": "11", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Knockout.j 3.4.1", 
+    "client": "mobile", 
+    "freq": "7", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Strapdown.js", 
+    "client": "desktop", 
+    "freq": "5", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "", 
+    "client": "mobile", 
+    "freq": "4", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "", 
+    "client": "desktop", 
+    "freq": "4", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Knockout.j 3.4.1", 
+    "client": "desktop", 
+    "freq": "4", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Knockout.j 2.1.0beta", 
+    "client": "desktop", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": " MooTools edition ver. 1.0", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Handlebar 3.0.1", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": " MooTools edition ver. 1.0", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Knockout.j 2.1.0beta", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Handlebar 3.0.1", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }
+]

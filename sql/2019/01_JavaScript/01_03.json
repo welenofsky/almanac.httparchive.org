@@ -1,0 +1,52 @@
+[
+  {
+    "client": "desktop", 
+    "distribution_js_reqs": "4", 
+    "percentile": "10"
+  }, 
+  {
+    "client": "mobile", 
+    "distribution_js_reqs": "4", 
+    "percentile": "10"
+  }, 
+  {
+    "client": "desktop", 
+    "distribution_js_reqs": "10", 
+    "percentile": "25"
+  }, 
+  {
+    "client": "mobile", 
+    "distribution_js_reqs": "9", 
+    "percentile": "25"
+  }, 
+  {
+    "client": "desktop", 
+    "distribution_js_reqs": "19", 
+    "percentile": "50"
+  }, 
+  {
+    "client": "mobile", 
+    "distribution_js_reqs": "18", 
+    "percentile": "50"
+  }, 
+  {
+    "client": "desktop", 
+    "distribution_js_reqs": "33", 
+    "percentile": "75"
+  }, 
+  {
+    "client": "mobile", 
+    "distribution_js_reqs": "32", 
+    "percentile": "75"
+  }, 
+  {
+    "client": "desktop", 
+    "distribution_js_reqs": "53", 
+    "percentile": "90"
+  }, 
+  {
+    "client": "mobile", 
+    "distribution_js_reqs": "52", 
+    "percentile": "90"
+  }
+]

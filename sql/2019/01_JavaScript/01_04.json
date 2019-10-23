@@ -1,0 +1,62 @@
+[
+  {
+    "client": "desktop", 
+    "first_party_js_requests": "0", 
+    "percentile": "10", 
+    "third_party_js_requests": "1"
+  }, 
+  {
+    "client": "mobile", 
+    "first_party_js_requests": "0", 
+    "percentile": "10", 
+    "third_party_js_requests": "1"
+  }, 
+  {
+    "client": "desktop", 
+    "first_party_js_requests": "2", 
+    "percentile": "25", 
+    "third_party_js_requests": "4"
+  }, 
+  {
+    "client": "mobile", 
+    "first_party_js_requests": "2", 
+    "percentile": "25", 
+    "third_party_js_requests": "3"
+  }, 
+  {
+    "client": "desktop", 
+    "first_party_js_requests": "6", 
+    "percentile": "50", 
+    "third_party_js_requests": "10"
+  }, 
+  {
+    "client": "mobile", 
+    "first_party_js_requests": "5", 
+    "percentile": "50", 
+    "third_party_js_requests": "9"
+  }, 
+  {
+    "client": "desktop", 
+    "first_party_js_requests": "13", 
+    "percentile": "75", 
+    "third_party_js_requests": "21"
+  }, 
+  {
+    "client": "mobile", 
+    "first_party_js_requests": "13", 
+    "percentile": "75", 
+    "third_party_js_requests": "20"
+  }, 
+  {
+    "client": "desktop", 
+    "first_party_js_requests": "24", 
+    "percentile": "90", 
+    "third_party_js_requests": "38"
+  }, 
+  {
+    "client": "mobile", 
+    "first_party_js_requests": "23", 
+    "percentile": "90", 
+    "third_party_js_requests": "36"
+  }
+]

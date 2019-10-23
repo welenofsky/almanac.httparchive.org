@@ -1,0 +1,10 @@
+[
+  {
+    "client": "mobile", 
+    "pct_module": "0.78"
+  }, 
+  {
+    "client": "desktop", 
+    "pct_module": "0.55"
+  }
+]

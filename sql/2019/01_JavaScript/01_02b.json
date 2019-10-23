@@ -1,0 +1,62 @@
+[
+  {
+    "client": "desktop", 
+    "first_party_js_kbytes": "0.0", 
+    "percentile": "10", 
+    "third_party_js_kbytes": "16.77"
+  }, 
+  {
+    "client": "mobile", 
+    "first_party_js_kbytes": "0.0", 
+    "percentile": "10", 
+    "third_party_js_kbytes": "16.77"
+  }, 
+  {
+    "client": "desktop", 
+    "first_party_js_kbytes": "11.05", 
+    "percentile": "25", 
+    "third_party_js_kbytes": "61.88"
+  }, 
+  {
+    "client": "mobile", 
+    "first_party_js_kbytes": "5.86", 
+    "percentile": "25", 
+    "third_party_js_kbytes": "54.19"
+  }, 
+  {
+    "client": "desktop", 
+    "first_party_js_kbytes": "89.11", 
+    "percentile": "50", 
+    "third_party_js_kbytes": "232.22"
+  }, 
+  {
+    "client": "mobile", 
+    "first_party_js_kbytes": "83.13", 
+    "percentile": "50", 
+    "third_party_js_kbytes": "216.93"
+  }, 
+  {
+    "client": "desktop", 
+    "first_party_js_kbytes": "200.35", 
+    "percentile": "75", 
+    "third_party_js_kbytes": "524.62"
+  }, 
+  {
+    "client": "mobile", 
+    "first_party_js_kbytes": "189.19", 
+    "percentile": "75", 
+    "third_party_js_kbytes": "477.13"
+  }, 
+  {
+    "client": "desktop", 
+    "first_party_js_kbytes": "404.27", 
+    "percentile": "90", 
+    "third_party_js_kbytes": "899.94"
+  }, 
+  {
+    "client": "mobile", 
+    "first_party_js_kbytes": "379.75", 
+    "percentile": "90", 
+    "third_party_js_kbytes": "827.06"
+  }
+]

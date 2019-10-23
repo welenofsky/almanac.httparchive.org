@@ -1,0 +1,52 @@
+[
+  {
+    "client": "desktop", 
+    "js_kbytes": "75.66", 
+    "percentile": "10"
+  }, 
+  {
+    "client": "mobile", 
+    "js_kbytes": "65.38", 
+    "percentile": "10"
+  }, 
+  {
+    "client": "desktop", 
+    "js_kbytes": "185.55", 
+    "percentile": "25"
+  }, 
+  {
+    "client": "mobile", 
+    "js_kbytes": "164.07", 
+    "percentile": "25"
+  }, 
+  {
+    "client": "desktop", 
+    "js_kbytes": "391.43", 
+    "percentile": "50"
+  }, 
+  {
+    "client": "mobile", 
+    "js_kbytes": "359.49", 
+    "percentile": "50"
+  }, 
+  {
+    "client": "desktop", 
+    "js_kbytes": "721.06", 
+    "percentile": "75"
+  }, 
+  {
+    "client": "mobile", 
+    "js_kbytes": "668.39", 
+    "percentile": "75"
+  }, 
+  {
+    "client": "desktop", 
+    "js_kbytes": "1130.58", 
+    "percentile": "90"
+  }, 
+  {
+    "client": "mobile", 
+    "js_kbytes": "1059.85", 
+    "percentile": "90"
+  }
+]

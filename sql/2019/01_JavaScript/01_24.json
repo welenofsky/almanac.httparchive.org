@@ -1,0 +1,14 @@
+[
+  {
+    "client": "desktop", 
+    "freq": "14887", 
+    "pct": "0.34", 
+    "total": "4371973"
+  }, 
+  {
+    "client": "mobile", 
+    "freq": "13537", 
+    "pct": "0.26", 
+    "total": "5297442"
+  }
+]

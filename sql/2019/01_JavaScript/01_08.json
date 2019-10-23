@@ -1,0 +1,1367 @@
+[
+  {
+    "app": "jQuery", 
+    "client": "mobile", 
+    "freq": "4421124", 
+    "pct": "83.46", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQuery", 
+    "client": "desktop", 
+    "freq": "3717683", 
+    "pct": "85.03", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQuery Migrate", 
+    "client": "mobile", 
+    "freq": "1678435", 
+    "pct": "31.68", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQuery Migrate", 
+    "client": "desktop", 
+    "freq": "1366725", 
+    "pct": "31.26", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQuery UI", 
+    "client": "mobile", 
+    "freq": "1152058", 
+    "pct": "21.75", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQuery UI", 
+    "client": "desktop", 
+    "freq": "1031864", 
+    "pct": "23.6", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Modernizr", 
+    "client": "mobile", 
+    "freq": "887640", 
+    "pct": "16.76", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Modernizr", 
+    "client": "desktop", 
+    "freq": "778195", 
+    "pct": "17.8", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "FancyBox", 
+    "client": "mobile", 
+    "freq": "350080", 
+    "pct": "6.61", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Lightbox", 
+    "client": "mobile", 
+    "freq": "314121", 
+    "pct": "5.93", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "FancyBox", 
+    "client": "desktop", 
+    "freq": "307802", 
+    "pct": "7.04", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Slick", 
+    "client": "mobile", 
+    "freq": "277432", 
+    "pct": "5.24", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Lightbox", 
+    "client": "desktop", 
+    "freq": "263087", 
+    "pct": "6.02", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Slick", 
+    "client": "desktop", 
+    "freq": "241935", 
+    "pct": "5.53", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Moment.js", 
+    "client": "mobile", 
+    "freq": "227354", 
+    "pct": "4.29", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Moment.js", 
+    "client": "desktop", 
+    "freq": "215209", 
+    "pct": "4.92", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Underscore.js", 
+    "client": "mobile", 
+    "freq": "202497", 
+    "pct": "3.82", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Underscore.js", 
+    "client": "desktop", 
+    "freq": "183607", 
+    "pct": "4.2", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "prettyPhoto", 
+    "client": "mobile", 
+    "freq": "163918", 
+    "pct": "3.09", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Hammer.js", 
+    "client": "mobile", 
+    "freq": "142843", 
+    "pct": "2.7", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Lodash", 
+    "client": "mobile", 
+    "freq": "141909", 
+    "pct": "2.68", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Select2", 
+    "client": "mobile", 
+    "freq": "131522", 
+    "pct": "2.48", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "prettyPhoto", 
+    "client": "desktop", 
+    "freq": "126257", 
+    "pct": "2.89", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Select2", 
+    "client": "desktop", 
+    "freq": "121658", 
+    "pct": "2.78", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Lodash", 
+    "client": "desktop", 
+    "freq": "116001", 
+    "pct": "2.65", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Hammer.js", 
+    "client": "desktop", 
+    "freq": "99646", 
+    "pct": "2.28", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Lazy.js", 
+    "client": "mobile", 
+    "freq": "82738", 
+    "pct": "1.56", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "YUI", 
+    "client": "desktop", 
+    "freq": "80420", 
+    "pct": "1.84", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "YUI", 
+    "client": "mobile", 
+    "freq": "79357", 
+    "pct": "1.5", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Fingerprintjs", 
+    "client": "mobile", 
+    "freq": "69839", 
+    "pct": "1.32", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Zepto", 
+    "client": "mobile", 
+    "freq": "62205", 
+    "pct": "1.17", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Lazy.js", 
+    "client": "desktop", 
+    "freq": "54873", 
+    "pct": "1.26", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Polyfill", 
+    "client": "mobile", 
+    "freq": "53078", 
+    "pct": "1.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Fingerprintjs", 
+    "client": "desktop", 
+    "freq": "52704", 
+    "pct": "1.21", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Flickity", 
+    "client": "mobile", 
+    "freq": "48635", 
+    "pct": "0.92", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "script.aculo.us", 
+    "client": "mobile", 
+    "freq": "45103", 
+    "pct": "0.85", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "script.aculo.us", 
+    "client": "desktop", 
+    "freq": "42657", 
+    "pct": "0.98", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Polyfill", 
+    "client": "desktop", 
+    "freq": "42445", 
+    "pct": "0.97", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Flickity", 
+    "client": "desktop", 
+    "freq": "36266", 
+    "pct": "0.83", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Zepto", 
+    "client": "desktop", 
+    "freq": "34161", 
+    "pct": "0.78", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Dojo", 
+    "client": "mobile", 
+    "freq": "32678", 
+    "pct": "0.62", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "SweetAlert", 
+    "client": "mobile", 
+    "freq": "32155", 
+    "pct": "0.61", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "DataTables", 
+    "client": "mobile", 
+    "freq": "32046", 
+    "pct": "0.6", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "DataTables", 
+    "client": "desktop", 
+    "freq": "30665", 
+    "pct": "0.7", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Dojo", 
+    "client": "desktop", 
+    "freq": "30661", 
+    "pct": "0.7", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "SweetAlert", 
+    "client": "desktop", 
+    "freq": "27810", 
+    "pct": "0.64", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "SweetAlert2", 
+    "client": "mobile", 
+    "freq": "21137", 
+    "pct": "0.4", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "SweetAlert2", 
+    "client": "desktop", 
+    "freq": "19849", 
+    "pct": "0.45", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "scrollreveal", 
+    "client": "mobile", 
+    "freq": "14675", 
+    "pct": "0.28", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "XRegExp", 
+    "client": "desktop", 
+    "freq": "14198", 
+    "pct": "0.32", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "SoundManager", 
+    "client": "mobile", 
+    "freq": "13810", 
+    "pct": "0.26", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "scrollreveal", 
+    "client": "desktop", 
+    "freq": "13691", 
+    "pct": "0.31", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "SoundManager", 
+    "client": "desktop", 
+    "freq": "12734", 
+    "pct": "0.29", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "basket.js", 
+    "client": "mobile", 
+    "freq": "11872", 
+    "pct": "0.22", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "XRegExp", 
+    "client": "mobile", 
+    "freq": "11735", 
+    "pct": "0.22", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Twitter typeahead.js", 
+    "client": "mobile", 
+    "freq": "10977", 
+    "pct": "0.21", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "HeadJS", 
+    "client": "mobile", 
+    "freq": "10849", 
+    "pct": "0.2", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Snap.svg", 
+    "client": "mobile", 
+    "freq": "10460", 
+    "pct": "0.2", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "HeadJS", 
+    "client": "desktop", 
+    "freq": "10121", 
+    "pct": "0.23", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "basket.js", 
+    "client": "desktop", 
+    "freq": "10012", 
+    "pct": "0.23", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Twitter typeahead.js", 
+    "client": "desktop", 
+    "freq": "9862", 
+    "pct": "0.23", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Snap.svg", 
+    "client": "desktop", 
+    "freq": "9538", 
+    "pct": "0.22", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "List.js", 
+    "client": "desktop", 
+    "freq": "6504", 
+    "pct": "0.15", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "List.js", 
+    "client": "mobile", 
+    "freq": "6283", 
+    "pct": "0.12", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Slimbox 2", 
+    "client": "mobile", 
+    "freq": "5160", 
+    "pct": "0.1", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Slimbox 2", 
+    "client": "desktop", 
+    "freq": "3924", 
+    "pct": "0.09", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Immutable.js", 
+    "client": "mobile", 
+    "freq": "3544", 
+    "pct": "0.07", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Slimbox", 
+    "client": "mobile", 
+    "freq": "2832", 
+    "pct": "0.05", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Immutable.js", 
+    "client": "desktop", 
+    "freq": "2151", 
+    "pct": "0.05", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Moment Timezone", 
+    "client": "mobile", 
+    "freq": "2103", 
+    "pct": "0.04", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Marked", 
+    "client": "desktop", 
+    "freq": "1900", 
+    "pct": "0.04", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Slimbox", 
+    "client": "desktop", 
+    "freq": "1851", 
+    "pct": "0.04", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Xajax", 
+    "client": "mobile", 
+    "freq": "1640", 
+    "pct": "0.03", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Moment Timezone", 
+    "client": "desktop", 
+    "freq": "1607", 
+    "pct": "0.04", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Xajax", 
+    "client": "desktop", 
+    "freq": "1410", 
+    "pct": "0.03", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Marked", 
+    "client": "mobile", 
+    "freq": "1198", 
+    "pct": "0.02", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "math.js", 
+    "client": "mobile", 
+    "freq": "1033", 
+    "pct": "0.02", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Bootstrap Table", 
+    "client": "desktop", 
+    "freq": "973", 
+    "pct": "0.02", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "math.js", 
+    "client": "desktop", 
+    "freq": "933", 
+    "pct": "0.02", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Bootstrap Table", 
+    "client": "mobile", 
+    "freq": "881", 
+    "pct": "0.02", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Ramda", 
+    "client": "mobile", 
+    "freq": "407", 
+    "pct": "0.01", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Ramda", 
+    "client": "desktop", 
+    "freq": "364", 
+    "pct": "0.01", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "DHTMLX", 
+    "client": "desktop", 
+    "freq": "327", 
+    "pct": "0.01", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "DHTMLX", 
+    "client": "mobile", 
+    "freq": "317", 
+    "pct": "0.01", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Day.js", 
+    "client": "desktop", 
+    "freq": "181", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Day.js", 
+    "client": "mobile", 
+    "freq": "166", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "MochiKit", 
+    "client": "desktop", 
+    "freq": "127", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "", 
+    "client": "desktop", 
+    "freq": "101", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "MochiKit", 
+    "client": "mobile", 
+    "freq": "95", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "", 
+    "client": "mobile", 
+    "freq": "95", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Underscore.j", 
+    "client": "desktop", 
+    "freq": "53", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Essential JS 2", 
+    "client": "mobile", 
+    "freq": "23", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Essential JS 2", 
+    "client": "desktop", 
+    "freq": "23", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Boba.js", 
+    "client": "mobile", 
+    "freq": "9", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQueryUI 1.12.1", 
+    "client": "desktop", 
+    "freq": "7", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Boba.js", 
+    "client": "desktop", 
+    "freq": "7", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQueryMigrate 1.2.1", 
+    "client": "desktop", 
+    "freq": "6", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "undefined undefined", 
+    "client": "mobile", 
+    "freq": "5", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQueryUI 1.12.1", 
+    "client": "mobile", 
+    "freq": "5", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQueryMigrate 1.2.1", 
+    "client": "mobile", 
+    "freq": "4", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "cript.aculo.u", 
+    "client": "desktop", 
+    "freq": "4", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "undefined undefined", 
+    "client": "desktop", 
+    "freq": "4", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQueryUI 1.7.2", 
+    "client": "desktop", 
+    "freq": "4", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQueryMigrate 1.4.1", 
+    "client": "desktop", 
+    "freq": "4", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQueryUI 1.11.4", 
+    "client": "desktop", 
+    "freq": "4", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "cript.aculo.u 1.9.0", 
+    "client": "desktop", 
+    "freq": "3", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQueryUI 1.10.4", 
+    "client": "desktop", 
+    "freq": "3", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "cript.aculo.u 1.9.0", 
+    "client": "mobile", 
+    "freq": "3", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQueryUI 1.11.4", 
+    "client": "mobile", 
+    "freq": "3", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQueryMigrate 1.4.1", 
+    "client": "mobile", 
+    "freq": "3", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQueryUI 1.8.16", 
+    "client": "mobile", 
+    "freq": "3", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQueryUI 1.8.16", 
+    "client": "desktop", 
+    "freq": "3", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Underscore.j 1.8.3", 
+    "client": "mobile", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQueryUI 1.10.4", 
+    "client": "mobile", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQueryMigrate 1.2.0", 
+    "client": "desktop", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQueryUI 1.8.9", 
+    "client": "desktop", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQuery Migratundefined 1.4.1", 
+    "client": "mobile", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQuery UI ", 
+    "client": "mobile", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Lazy.j", 
+    "client": "mobile", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQueryUI 1.8.5", 
+    "client": "mobile", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQuery1 1.11.3", 
+    "client": "desktop", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQueryUI 1.12.0", 
+    "client": "desktop", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQueryUI 1.11.1", 
+    "client": "desktop", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQueryUI 1.10.2", 
+    "client": "desktop", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "cript.aculo.u 1.8.1", 
+    "client": "desktop", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQueryUI 1.12.0", 
+    "client": "mobile", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQueryUI 1.8.9", 
+    "client": "mobile", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Moment.j 2.15.2", 
+    "client": "desktop", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Underscore.j 1.7.0", 
+    "client": "mobile", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQuery UI ", 
+    "client": "desktop", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQueryUI 1.10.3", 
+    "client": "desktop", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQuery1 1.11.3", 
+    "client": "mobile", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQuery1 1.9.1", 
+    "client": "mobile", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQueryMigrate 1.2.0", 
+    "client": "mobile", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQueryUI 1.7.2", 
+    "client": "mobile", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Moment.j 2.15.2", 
+    "client": "mobile", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQueryMigrate", 
+    "client": "mobile", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQueryMigrate", 
+    "client": "desktop", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Underscore.j 1.7.0", 
+    "client": "desktop", 
+    "freq": "2", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQueryUI 1.10.2", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQueryUI 1.8.23", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Hammer.j 2.0.4", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "math.j", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Fingerprintj 1.4.4", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "DataTable", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQuery1 1.9.1", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQueryUI 1.8.4", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQuery Migratundefined 1.4.1", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQueryUI 1.8.20", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Hammer.j 2.0.4", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "math.j", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": " j Q u e r y  U I    \\  1  ", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Moment.j 2.10.2", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQuery1 1.11.1", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQueryUI 1.11.1", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQueryUI c0ab71056b936627e8a7821f03c044aec6280a40", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQueryUI 1.9.2", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Moment.j 2.9.0", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQueryUI 1.8.5", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQuer \\", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "List.j", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": " j Q u e r y  U I    \\  1  ", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "DataTable", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Moment.j 2.14.1", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQuer \\", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQuery1 3.2.1", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Moment.j 2.14.1", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQuery1 3.2.1", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "basket.j", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQueryUI", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQueryUI", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": " 1.11.3", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Fingerprintj 1.4.4", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Moment.j 2.9.0", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQuery1 1.11.1", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": " j Q u e r y    \\  1  ", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQuery1 1.10.2", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQueryUI c0ab71056b936627e8a7821f03c044aec6280a40", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Moment.j 2.10.3", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Moment.j 2.17.1", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Moment.j 2.10.2", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Moment.j 2.10.3", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQueryUI 1.9.2", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "basket.j", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQueryUI 1.8.4", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQueryUI 1.10.3", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "jQueryUI 1.8.7", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Moment.j 2.17.1", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Moment.j 2.22.2", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": "Moment.j 2.22.2", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": " j Q u e r y    \\  1  ", 
+    "client": "mobile", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "5297442"
+  }, 
+  {
+    "app": " UI 1.12.1", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "Underscore.j 1.8.2", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "List.j", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }, 
+  {
+    "app": "jQueryUI 1.8.23", 
+    "client": "desktop", 
+    "freq": "1", 
+    "pct": "0.0", 
+    "total": "4371973"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "first_party_js_kbytes": "9.1", 
+    "percentile": "10", 
+    "third_party_js_kbytes": "0.13"
+  }, 
+  {
+    "first_party_js_kbytes": "79.55", 
+    "percentile": "25", 
+    "third_party_js_kbytes": "60.43"
+  }, 
+  {
+    "first_party_js_kbytes": "202.38", 
+    "percentile": "50", 
+    "third_party_js_kbytes": "278.66"
+  }, 
+  {
+    "first_party_js_kbytes": "445.67", 
+    "percentile": "75", 
+    "third_party_js_kbytes": "687.72"
+  }, 
+  {
+    "first_party_js_kbytes": "868.21", 
+    "percentile": "90", 
+    "third_party_js_kbytes": "1279.32"
+  }
+]

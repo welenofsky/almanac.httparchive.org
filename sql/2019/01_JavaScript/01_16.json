@@ -1,0 +1,14 @@
+[
+  {
+    "client": "mobile", 
+    "num_pages": "4030", 
+    "pct_script_prefetch": "0.08", 
+    "total": "5297442"
+  }, 
+  {
+    "client": "desktop", 
+    "num_pages": "3365", 
+    "pct_script_prefetch": "0.08", 
+    "total": "4371974"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "client": "mobile", 
+    "pct_brotli": "14.2"
+  }, 
+  {
+    "client": "desktop", 
+    "pct_brotli": "14.5"
+  }
+]

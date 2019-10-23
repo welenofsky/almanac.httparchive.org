@@ -1,0 +1,34 @@
+[
+  {
+    "atomics": "16329", 
+    "client": "desktop", 
+    "intl": "164332", 
+    "pct_atomics": "0.38", 
+    "pct_intl": "3.87", 
+    "pct_proxy": "3.85", 
+    "pct_sharedarraybuffer": "0.2", 
+    "pct_weakmap": "25.01", 
+    "pct_weakset": "6.11", 
+    "proxy": "163422", 
+    "sharedarraybuffer": "8621", 
+    "total": "4248310", 
+    "weakmap": "1062479", 
+    "weakset": "259711"
+  }, 
+  {
+    "atomics": "19419", 
+    "client": "mobile", 
+    "intl": "721215", 
+    "pct_atomics": "0.38", 
+    "pct_intl": "14.01", 
+    "pct_proxy": "4.39", 
+    "pct_sharedarraybuffer": "0.17", 
+    "pct_weakmap": "36.15", 
+    "pct_weakset": "17.2", 
+    "proxy": "226057", 
+    "sharedarraybuffer": "8575", 
+    "total": "5147816", 
+    "weakmap": "1861170", 
+    "weakset": "885656"
+  }
+]

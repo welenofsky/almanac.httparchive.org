@@ -1,0 +1,22 @@
+[
+  {
+    "js_kbytes": "70.0", 
+    "percentile": "10"
+  }, 
+  {
+    "js_kbytes": "173.59", 
+    "percentile": "25"
+  }, 
+  {
+    "js_kbytes": "373.51", 
+    "percentile": "50"
+  }, 
+  {
+    "js_kbytes": "692.73", 
+    "percentile": "75"
+  }, 
+  {
+    "js_kbytes": "1093.62", 
+    "percentile": "90"
+  }
+]
